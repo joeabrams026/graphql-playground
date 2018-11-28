@@ -49,6 +49,7 @@ export const defaultSettings: ISettings = {
   'editor.reuseHeaders': true,
   'prettier.printWidth': 80,
   'request.credentials': 'omit',
+  'request.authorizationHeader': '',
   'tracing.hideTracingResponse': true,
 }
 

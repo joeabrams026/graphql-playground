@@ -21,6 +21,7 @@ export interface ISettings {
   'editor.fontSize': number
   'editor.fontFamily': string
   'request.credentials': string
+  'request.authorizationHeader': string
 }
 
 export interface EditorColours {
